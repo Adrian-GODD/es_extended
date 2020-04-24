@@ -1,5 +1,8 @@
 # es_extended
 
+**This is not the official ESX repo, this is a fork from 04/22/2020. If you want to know why yo don't find the official ESX repo anymore, take a look at this : [Click](https://github.com/ESX-Org/es_extended2)**
+
+
 es_extended is a roleplay framework for FiveM. ESX is short for nothing. The to-go framework for creating an economy based roleplay server on FiveM and most popular on the platform, too!
 
 Featuring many extra resources to fit roleplaying servers, here's a taste of what's available:
