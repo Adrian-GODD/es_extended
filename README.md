@@ -1,6 +1,6 @@
 # es_extended
 
-**This is not the official ESX repo, this is a fork from 04/22/2020. If you want to know why yo don't find the official ESX repo anymore, take a look at this : [Click](https://github.com/ESX-Org/es_extended2)**
+**This is not the official ESX repo, this is a fork from 04/24/2020. If you want to know why yo don't find the official ESX repo anymore, take a look at this : [Click](https://github.com/ESX-Org/es_extended2)**
 
 We all feel sad about these things happening, no one get what's the use of ruining a community framework made for the community. Stay in touch on the ESX discord, something bigger will come anytime soon ! :)
 
